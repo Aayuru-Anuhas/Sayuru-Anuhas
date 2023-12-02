@@ -87,9 +87,9 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴�
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'DH Wizard With Elisa Bot' 
+global.ownernma =  'Sayuru Anuhas' 
 //👇 Sticker Author Name
-global.packname =  'DH Wizard With Elisa Bot' 
+global.packname =  'Sayuru Anuhas' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
